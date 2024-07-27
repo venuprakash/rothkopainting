@@ -1,4 +1,4 @@
-<h1>Rothko Painting</h1>
+<h1>FREECODECAMP - Rothko Painting</h1>
 
 <h3>https://venuprakash.github.io/rothkopainting/</h3>
 
